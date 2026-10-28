@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {"id":"1","title":"Flutter 중간프로젝트 PPT 정리","category":"학교","priority":"high","dueDate":"2026-10-29","completed":false,"note":"발표 6분, 질의 2분. 핵심 근거와 데모를 점검한다."},
+    {"id":"2","title":"AI 반론과 재반박 검토","category":"학교","priority":"high","dueDate":"2026-10-28","completed":false,"note":"반론을 그대로 수용하지 않고 근거를 남긴다."},
+    {"id":"3","title":"이번 주 장보기","category":"생활","priority":"low","dueDate":"2026-10-30","completed":false,"note":"우유와 과일"},
+    {"id":"4","title":"팀 프로젝트 자료 읽기","category":"학교","priority":"medium","dueDate":"2026-10-30","completed":false,"note":"중요 문장 표시"},
+    {"id":"5","title":"운동 30분","category":"개인","priority":"medium","dueDate":"2026-10-28","completed":true,"note":"완료 기록도 계속 확인할 수 있다."},
+    {"id":"6","title":"도서관 책 반납","category":"생활","priority":"high","dueDate":"2026-10-29","completed":false,"note":"반납 기한 확인"}
+  ]
+}
