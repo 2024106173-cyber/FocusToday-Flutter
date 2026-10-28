@@ -82,3 +82,5 @@ flutter run --dart-define=MOCK_BASE_URL=http://192.168.0.10:3000
 - 셀프논증의 '나의 재반박'은 발표자가 검토하고 자신의 판단으로 확정해야 하는 초안이다.
 
 출처: [Flutter Networking](https://docs.flutter.dev/data-and-backend/networking), [http package](https://pub.dev/packages/http), [json-server](https://github.com/typicode/json-server).
+## 데모 영상 (Demo Video)
+https://drive.google.com/file/d/13H7xyj7dwVF6NevyRzA62bcBLqT6wdYs/view?usp=sharing
